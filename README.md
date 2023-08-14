@@ -1,2 +1,2 @@
 # html-project
-html-project web dev rob percival course
+HTML project for Udemy Web dev course by Rob Percival
